@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>测试文章</title>
+    <link href="/2022/03/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <url>/2022/03/15/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<p>以下是正文<br><img src="img/post_test/1.jpng" alt="Front-matter-keyword"><br><img src="img/post_test/2.jpng" alt="Front-matter-keyword"></p><p>这是段落一</p><p>这是段落二</p><blockquote><p>这是一段引用段落，将会被高亮显示</p></blockquote><p><code>Markdown支持同时强调引用多个段落，可以按照如下方式书写</code></p><blockquote><p>这是一段引用段落，将会被高亮显示</p><p>这也是一段引用段落，也会被高亮显示</p></blockquote><p><code>超链接</code><br><a href="https://www.cnblogs.com/whiremapple/p/12419113.html" title="超链接title">超链接显示文字</a></p><ul><li>无序列表项</li><li>无序列表项</li><li>无序列表项</li></ul><ul><li>无序列表项<ul><li>第二层列表项（二级列表缩进三个空格</li><li>第二层列表项</li></ul></li><li>无序列表项</li><li>无序列表项</li></ul><p><code>字体</code><br><em>这里是文字</em><br><em>这里是文字</em><br><strong>这里是文字</strong><br><em><strong>这里是文字</strong></em><br><del>这里是文字</del></p><p><code>字体颜色</code></p><p><font face="黑体">我是黑体字</font><br><font face="微软雅黑">我是微软雅黑</font><br><font color=red>我是红色</font><br><font color=#008000>我是绿色</font><br><font color=Blue>我是蓝色</font><br><font size=5>我是尺寸</font><br><font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font></p><p><code>常用颜色（常用几个就可以了）</code><br>color=DeepPink 我是深粉色<br>color=Blue 我是蓝色<br>color=red 我是红色<br>color=Magenta 我是Magenta色<br>color=Orange 我是Magenta色</p><p>使用<code>`</code>来强调字符<br>想打出<code>`</code>(反引号)需要转义的，加<code>&lt;code&gt;&lt;/code&gt;</code>标签强调<br>比如<code>突出背景色</code>来显示强调效果</p><p><code>表格语法</code></p><p>#########表格前空一行</p><table><thead><tr><th>表头</th><th align="center">表头</th><th align="right">表头</th></tr></thead><tbody><tr><td>内容</td><td align="center">内容</td><td align="right">内容</td></tr><tr><td>内容</td><td align="center">内容</td><td align="right">内容</td></tr><tr><td>内容</td><td align="center">内容</td><td align="right">内容</td></tr></tbody></table><p><code>行内代码</code><br>使用单个反引号进行包裹行内代码<br>例如<code>var x=10</code></p><figure class="highlight python"><table><tr><td class="gutter"><div class="code-wrapper"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></div></td><td class="code"><pre><code class="hljs Python"><span class="hljs-comment">#!/usr/bin/env python</span><br><span class="hljs-comment"># -*- coding: utf-8 -*-</span><br><span class="hljs-built_in">print</span> <span class="hljs-string">&#x27;Hello World! </span><br></code></pre></td></tr></table></figure><p><code>注脚测试</code><sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="测试ok[超链接显示文字]https://blog.csdn.net/zhuzhuyule/article/details/58347687">[1]</span></a></sup></p><p>##以下文末区</p><section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>测试ok<br>[超链接显示文字]<a href="https://blog.csdn.net/zhuzhuyule/article/details/58347687">https://blog.csdn.net/zhuzhuyule/article/details/58347687</a><a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+      <tag>Fluid</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/03/09/hello-world/"/>
     <url>/2022/03/09/hello-world/</url>
