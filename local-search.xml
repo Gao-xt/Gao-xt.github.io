@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>多词简化</title>
+    <link href="/2022/05/02/%E5%A4%9A%E8%AF%8D%E7%AE%80%E5%8C%96/"/>
+    <url>/2022/05/02/%E5%A4%9A%E8%AF%8D%E7%AE%80%E5%8C%96/</url>
+    
+    <content type="html"><![CDATA[<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="Please enter the password to read the blog." />    <label for="pass">Please enter the password to read the blog.</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX1+R2SNHyMjywc+uoiNUNvITdMcjwWm/eSU=</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>bert总结</title>
     <link href="/2022/04/08/bert%E6%80%BB%E7%BB%93/"/>
     <url>/2022/04/08/bert%E6%80%BB%E7%BB%93/</url>
@@ -21,7 +34,7 @@
     <link href="/2022/03/15/2022-Daily-shorthand/"/>
     <url>/2022/03/15/2022-Daily-shorthand/</url>
     
-    <content type="html"><![CDATA[<p><font size="5">2022-3-15</font></p><p class="note note-success">A 股跌破 3100 点，港股也大跌，阿里腾讯两天蒸发 7000 亿。</p><p class="note note-success">奥密克戎BA.2亚型传染力更强，本土较昨日新增3507例。</p><p><font size="5">2022-3-21</font></p><p class="note note-success">东航MU5735搭载132人一波音737-800客机失事。</p><p><font size="5">2022-3-28</font></p><p class="note note-success">上海新增3500例，全国新增1219+4496例。</p><p><font size="5">2022-4-7</font></p><p class="note note-success">上海新冠病毒感染人群突破10万人。</p><p><font size="5">2022-4-18</font></p><p class="note note-success">2022届高校毕业生规模预计1076万人，同比增加167万人。</p><p><font size="5">2022-5-2</font></p><p class="note note-success">前4个月中国TOP3房企（碧桂园、万科、保利发展）同比少卖了3000亿。</p>]]></content>
+    <content type="html"><![CDATA[<p><font size="5">2022-3-15</font></p><p class="note note-success">A 股跌破 3100 点，港股也大跌，阿里腾讯两天蒸发 7000 亿。</p><p class="note note-success">奥密克戎BA.2亚型传染力更强，本土较昨日新增3507例。</p><p><font size="5">2022-3-21</font></p><p class="note note-success">东航MU5735搭载132人一波音737-800客机失事。</p><p><font size="5">2022-3-28</font></p><p class="note note-success">上海新增3500例，全国新增1219+4496例。</p><p><font size="5">2022-4-7</font></p><p class="note note-success">上海新冠病毒感染人群突破10万人。</p><p><font size="5">2022-4-18</font></p><p class="note note-success">2022届高校毕业生规模预计1076万人，同比增加167万人。</p><p><font size="5">2022-5-2</font></p><p class="note note-success">前4个月中国TOP3房企（碧桂园、万科、保利发展）同比少卖了3000亿。</p><p class="note note-success">没有哪个男人能拒绝《spy&family》这种带着可爱闺女拯救世界的设定。</p><p><img src="/2022/03/15/2022-Daily-shorthand/spy.png" alt="Front-matter-keyword"></p>]]></content>
     
     
     <categories>
